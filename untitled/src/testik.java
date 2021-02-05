@@ -3,4 +3,5 @@ public class testik {
     String name = "diart";
     double price = 0.2;
     char test = 'c';
+    String test2 = "test2";
 }
