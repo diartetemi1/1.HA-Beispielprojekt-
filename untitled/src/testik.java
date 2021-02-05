@@ -4,4 +4,6 @@ public class testik {
     double price = 0.2;
     char test = 'c';
     String test2 = "test2";
+    int[] zahlen = new int[5];
+
 }
